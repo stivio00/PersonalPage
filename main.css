@@ -1,0 +1,23 @@
+body {
+    font-family: serif;
+    font-size: 48px;
+    background-color: crimson;
+    margin: 2em;
+
+  }
+
+  .title-box {
+      font-family: Spectral;
+      color:beige;
+      background-blend-mode: lighten;
+  }
+
+  p {
+      color: cornsilk;
+  }
+
+  footer p {
+      font-family: Spectral;
+      font-size: small;
+      color: bisque;
+  }
